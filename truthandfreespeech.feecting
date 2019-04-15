@@ -6,11 +6,12 @@
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting/
 $truth=https://www.eluniversal.com.mx/english/us-charges-wikileaks-assange-hacking-conspiracy-chelsea-manning
+$haiku=https://github.com/Prospector737/feecting_script/edit/master/truthandfreespeech.feecting
 
 @CT= https://twitter.com/SeaTalbot
 @wikileaks=https://twitter.com/wikileaks
 @Freeassange= https://twitter.com/TwistedPolitix
-@victim=https://twitter.com/JulianAssange_
+@assange=https://twitter.com/JulianAssange_
 @trust=https://twitter.com/FearDept/status/1116556473453039620
 @many=https://dailycaller.com/2019/04/11/fast-facts-wikileaks-julian-assange/
 
@@ -31,7 +32,7 @@ $truth=https://www.eluniversal.com.mx/english/us-charges-wikileaks-assange-hacki
 
 @many want a piece
 Shattered is our @trust
-the $truth is the real @victim
+the $truth is the real victim
 
 
 
